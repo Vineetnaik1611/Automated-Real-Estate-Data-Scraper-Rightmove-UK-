@@ -1,6 +1,8 @@
 # Automated-Real-Estate-Data-Scraper-Rightmove-UK-
 Developed a Selenium-based dynamic web scraper to collect property prices, metadata, and coordinates from Rightmove and export them into structured CSV datasets.
 
+Demo of the project : https://www.linkedin.com/posts/vineetnaik1611_python-webscraping-automation-activity-7382117398444675072-_dTY?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAB1r74EB1BgDMrQtlMWDlbqL7ShILewXuH4
+
 
 
 This project is an automated **Real Estate Data Scraper** that extracts property listings from **Rightmove UK** using **Selenium WebDriver** and **BeautifulSoup**.
