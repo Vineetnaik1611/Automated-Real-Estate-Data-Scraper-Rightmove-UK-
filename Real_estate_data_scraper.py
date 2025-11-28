@@ -184,7 +184,7 @@ class RightmoveScraper:
             writer.writeheader()
             writer.writerows(self.results)
 
-        print(f"✅ Saved {len(self.results)} entries to: {full_path}")
+        print(f" Saved {len(self.results)} entries to: {full_path}")
 
     def run(self):
         try:
@@ -204,3 +204,4 @@ class RightmoveScraper:
 if __name__ == '__main__':
     scraper = RightmoveScraper()
     scraper.run()
+
