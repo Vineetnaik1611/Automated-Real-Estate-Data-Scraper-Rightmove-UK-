@@ -62,7 +62,8 @@ After completion, your CSV file will be saved to:
 ## Configuration
 
 Inside the run() method, you can change the number of pages to scrape:
-``bash
+
+```bash
 for page in range(0, 2):
 ```
 Increase the range to scrape more pages
